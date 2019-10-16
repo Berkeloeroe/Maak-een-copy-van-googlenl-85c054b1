@@ -1,0 +1,123 @@
+.google {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 195px;
+}
+
+.wafel {
+	display: block;
+	position: relative;
+    height: 18px;
+    right: -1395px;
+    top: -525px;
+	
+}
+
+.zoekbalk input {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	width: 37%;
+	height: 48px;
+	border-radius: 60px;
+	border-color: #dcdcde;
+	border-width: 1px;
+}
+
+.submit {
+	margin-top: 30px;
+	height: 40px;
+	background-color: #ededed;
+	border-color: #f2f2f2;
+	border-width: 0px;
+	width: 7.5%;
+	color: rgba(0,0,0,.54);
+}
+
+.nederland {
+	 display: block;
+	 position: fixed;
+	 bottom: 25px;
+	 left: 0px;
+	 width: 100%;
+	 word-spacing: 2em;
+	 padding: 6px 20px 20px;
+	 border: solid;
+	 border width: 1px;
+	 color: rgba(0,0,0,.54);
+	 background-color: #f2f2f2;
+	 border-color: #dcdcde;
+	}
+
+	.adverteren {
+	 position: fixed;
+	 bottom: -30px;
+	 width: 100%;
+	 left: 0px;
+	 word-spacing: 2em;
+	 padding: 15px 20px 20px;
+	 display: block;
+	 color: rgba(0,0,0,.54);
+	 border: solid;
+	 background-color: #f2f2f2;
+	 border-color: #dcdcde
+
+}
+
+.privacy {
+	position: relative;
+	text-align: right;
+	bottom: -250px;
+	word-spacing: 2em;
+	color: rgba(0,0,0,.54);
+
+}
+
+.gmail {
+	position: relative;
+	text-align: right;
+	bottom: 492px;
+	right: 140px;
+	word-spacing: 1em;
+}
+
+.inloggen input {
+	display: block;
+	position: relative;
+	height: 33px;
+	width: 5%;
+	background-color: #0f8bff;
+	border-color: #0f8bff;
+	border-width: 0px;
+	border-radius: 3px;
+	color: white;
+	right: -1430px;
+    top: -550px;
+    font-weight: bold;
+}
+
+.mag img {
+	display: block;
+	position: relative;
+	height: 20px;
+	bottom: 275px;
+	right: 260px;
+}
+
+.mic img {
+	display: block;
+	position: relative;
+	height: 20px;
+	bottom: 293px;
+	right: -255px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    
+  }
+}
+
+	
